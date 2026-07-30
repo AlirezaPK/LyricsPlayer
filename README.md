@@ -9,3 +9,4 @@ A simple, Android music player built with **Kotlin** and **Jetpack Compose**. It
 - 🎯 **Active Line Highlighting**: The current lyric is dynamically highlighted with smooth alpha animations, and tapping any line instantly seeks the audio to that timestamp.
 
 ## 🎬 Demo
+https://github.com/user-attachments/assets/2fe68924-4bb3-4138-95a3-b37da1c85119
